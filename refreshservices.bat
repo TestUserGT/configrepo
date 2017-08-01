@@ -1,2 +1,2 @@
-curl -d {} http://localhost:8080/refresh
-curl -d {} http://localhost:8081/refresh
+curl -d {} http://service1-123.cfapps.io/refresh
+curl -d {} http://service2-123.cfapps.io/refresh
